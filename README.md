@@ -3,6 +3,7 @@
 Welcome to the comprehensive data analysis project of **IPL 2025**! This repository contains deep insights, visualizations, and interpretations derived from multiple IPL datasets, presented in a clean and structured Jupyter Notebook.
 
 ---
+![IPL Header Image](https://img.jagranjosh.com/images/2025/February/1322025/IPL-2025-schedule.webp)
 
 ## 📁 Project Structure
 
