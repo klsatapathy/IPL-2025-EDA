@@ -100,3 +100,11 @@ This project is licensed under the [MIT License](LICENSE).
 ## ⭐ Star the Repo If You Like the Project!
 
 Let others discover and learn from it too. 😊
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=klsatapathy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
